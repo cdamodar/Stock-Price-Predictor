@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib.pyplot
+pandas_datareader
+keras.layers
+keras.models
+sklearn.preprocessing
