@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 import pandas_datareader as data
 # from keras.layers import Dense, Dropout, LSTM
 # from keras.models import Sequential
